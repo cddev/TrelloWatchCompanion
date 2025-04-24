@@ -1,5 +1,5 @@
 # Trello Watch Companion App
-
+https://drive.google.com/file/d/10uoUdQL4VoOJZLzmdQ2p1cIF8utW1cCb/view?usp=sharing, https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221YA8XFPE_qSdMBWZAbV4CeEWry_QXjtZT%22%5D,%22action%22:%22open%22,%22userId%22:%22101478228369990562741%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
 ## Overview
 
 This project demonstrates a basic implementation of a Trello client for watchOS (version 11 target assumed) paired with a companion iOS application. It allows users to authenticate with their Trello account via the iOS app, view their Trello boards and cards on their Apple Watch, and move cards between lists directly from the watch.
